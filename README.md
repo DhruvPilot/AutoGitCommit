@@ -39,5 +39,5 @@ Before using this tool, make sure you have:
 ## 💻 Installation & Usage
 ### **1️⃣ Clone this repository**
 ```sh
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-cd YOUR-REPO
+git clone https://github.com/DhruvPilot/AutoGitCommit.git
+cd AutoGitCommit.git
