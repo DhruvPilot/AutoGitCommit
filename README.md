@@ -35,17 +35,3 @@ Before using this tool, make sure you have:
      **Windows:** [Download Git](https://git-scm.com/downloads)  
 
 ---
-
-## 💻 Installation & Usage
-### **1️⃣ Clone this repository**
-```sh
-git clone https://github.com/DhruvPilot/AutoGitCommit.git
-cd AutoGitCommit.git
-
-### **2️⃣ Make the script executable
-```sh
-
-chmod +x AutoGitCommit.sh
-
-### **3️⃣ Run the script
-./AutoGitCommit.sh
