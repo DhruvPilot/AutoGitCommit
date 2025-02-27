@@ -1,4 +1,4 @@
-# DP Git Commit Tool
+# Git Commit Tool
 
 A simple and automated script to **commit files with a past timestamp** and push them to GitHub.  
 This tool makes it easy to set up repositories, move files, backdate commits, and push them with proper user details.
